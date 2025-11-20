@@ -61,11 +61,11 @@ En esta planilla pueden ver todos los dispositivos evaluados y cuáles seleccion
 
 Los dispositivos seleccionados para esta primera tanda son:
 
-* **Tarjeta:** RakWireless WisMesh Tag
-* **Portable:** Meshnology N37 y Elecrow ThinkNode M6
-* **Solar:** Seeed Studio SenseCAP Solar Node P1-Pro y Elecrow ThinkNode M6
-* **Vehicular:** Spec5 Voyager
-* **Power bank:** Heltec MeshPocket Qi2 Magnetic
+* **Tarjeta:** [RakWireless WisMesh Tag](https://docs.rakwireless.com/product-categories/meshtastic/wismesh-tag/overview/)
+* **Portable:** [Meshnology N37](https://meshnology.com/products/wio-tracker-l1-lora-meshtastic-gps-dev-board-with-1-3-oled) y [Elecrow ThinkNode M1](https://www.elecrow.com/thinknode-m1-meshtastic-lora-signal-transceiver-powered-by-nrf52840-with-154-screen-support-gps.html)
+* **Solar:** [Seeed Studio SenseCAP Solar Node P1-Pro](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-Pro-for-Meshtastic-LoRa-p-6412.html) y [Elecrow ThinkNode M6](https://www.elecrow.com/thinknode-m6-outdoor-solar-power-for-lora-powered-by-nrf52840-supports-gps.html)
+* **Vehicular:** [Spec5 Voyager](https://specfive.com/products/specfive-voyager)
+* **Power bank:** [Heltec MeshPocket Qi2 Magnetic](https://heltec.org/project/meshpocket/)
 
 Hablaremos más sobre cada uno en futuros posts.
 
