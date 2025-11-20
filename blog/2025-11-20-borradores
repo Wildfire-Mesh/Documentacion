@@ -1,0 +1,107 @@
+
+---
+slug: primer-borrador-de-compra
+title: Borradores de artículos a publicar
+authors: [nicopace, pablo, agus]
+tags: [borrador]
+---
+Estos son artículos que iremos escribiendo, y que queremos ir compartiendo nuestras ideas a medida que se van formando:
+
+# Comunicaciones digitales en el combate del fuego, que opciones hay?
+
+Dispositivos off-the-shelf comerciales, soluciones integradas:
+
+- Beartooth
+- Gotenna
+
+Dispositivos genéricos que usan LoRa:
+
+- Meshtastic
+- Meshcore
+- Reticulum
+
+# Garantías de dispositivos
+
+¿Algunas de las empresas ofrece gantías de su producto? Si es así... ¿Qué tiempo duran? ¿Es extendible a Argentina? ¿Es extendible a cualquier empresa que
+venda su producto? ¿O dicha garantía está solo aplica comprando desde su sitio oficial? ¿Dicha garantía puede ser extendida?
+Si estas empresas así lo prefieren... ¿Podremos enviar nuestras experiencias de uso?
+En contacto con estas empresas... ¿Existirá la posibilidad de acceder a un descuento? ¿De cuánto será? ¿A partir de qué cantidad de dispositivos?
+¿Existe alguna garantía por parte de la empresa que revende estos productos (AliExpress, Amazon, etc.) por si el producto se daña durante cualquier instancia del viaje?
+¿Existe alguna garantía por parte de la empresa encargada del envío por si el producto se daña durante cualquier instancia del viaje?
+¿Existe la posibilidad en Argentina de acceder a un servicio técnico?
+
+# Fabricantes y Ensambladores
+
+Nuestro proveedor... ¿Es fabricante o ensambledor? Y si es ensablador... ¿De quiénes son las piezas que integran?
+
+## Fabricantes
+
+- SeedStudio
+- RakWireless
+- Heltec
+- LilyGo
+- ByQ
+- Elecrow
+
+## Ensambladores
+
+Algunos de ellos:
+
+- Spec5
+- Canary
+- Yeti Wurks
+- Meshnology
+- Maker Nova
+
+Los que elegimos:
+
+Los que no:
+
+- AT Labs
+
+# Introducción a las Comunicaciones de Emergencia con Dispositivos LoRa
+
+
+# Características: Evaluación preliminar de dispositivos en el contexto de combate del fuego
+
+No tenemos experiencia, por lo que viene de nuestra intuición.
+Contrastaremos esto con la experiencia de los combatientes, y lo pondremos a prueba.
+
+# Diferentes formatos de dispositivos Meshtastic
+
+Identificar qué función específica cumplirá el dispositivo, ya que será importante a la hora de elegir qué dispositivo adquirir.
+
+- Portable
+- Fijo
+- Tarjeta
+- Power Bank
+- Vehicular
+- Smartwatch
+- Blackberry
+
+# Donde y como comprar: Análisis de escritorio
+
+Donde comprar:
+- Sitios de fabricantes
+- Marketplaces (Amazon, Ebay, Aliexpress)
+- En Argentina
+
+Como enviarlo:
+- Correo puerta a puerta
+- Courier
+
+# Donde y como comprar: La legislación Argentina en 2025
+
+A la hora de ver el precio, contemplar envío pues éste aumentará considerablemente el costo final y el tiempo de entrega.
+
+Los bomberos voluntarios pueden acceder a exención impositiva para la importación. Pero si, usted NO pertenece a la organización y desea comprar, también deberá agregar al valor del producto y su envío, el coste de aduana {referencia}.
+
+# Accesorios útiles en las comunicaciones para el combate del fuego y la búsqueda y rescate
+
+- Power bank
+- Antena magnética
+- Panel solar usb portátil
+
+# Guía de cuidado
+
+Será necesario crear una guía de buen uso para éstos dispositivos? A fin de extender la vida útil de los dispositivos lo máximo posible.
