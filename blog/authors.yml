@@ -22,10 +22,10 @@ aguslasp:
   #  newsletter: https://thisweekinreact.com
 
 pablo:
-  name: Pablo Acosta
-  #title: Ingeniero en Sistemas
-  #url: https://nico.today
-  #image_url: https://github.com/nicopace.png
-  #page: true
-  #socials:
-  #  github: nicopace
+  name: Pablo Acosta Cuestas
+  title: Fullstack en Python
+  url: https://mrnetsky.github.io/docusaurus_personal/
+  image_url: https://github.com/MrNetsky
+  page: true
+  socials:
+    github: MrNetsky
