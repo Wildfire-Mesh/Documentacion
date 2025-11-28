@@ -1,7 +1,7 @@
 ---
 slug: primer-borrador-de-compra
 title: Primer borrador de compra
-authors: [nicopace, pablo]
+authors: [nicopace, MrNetsky]
 tags: [compra]
 ---
 ## Productos que elegimos para comprar para validar con la comunidad
