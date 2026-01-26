@@ -24,8 +24,10 @@ aguslasp:
 MrNetsky:
   name: Pablo Acosta Cuestas
   title: Fullstack en Python
-  url: https://mrnetsky.github.io/docusaurus_personal/
+  url: www.linkedin.com/in/pablo-ac97
   image_url: https://github.com/MrNetsky.png
   page: true
   socials:
-    github: MrNetsky
+    x: PablitooAC97
+    linkedin: pablo-ac97
+    github: MrNetsky 

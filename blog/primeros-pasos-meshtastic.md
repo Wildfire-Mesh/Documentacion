@@ -1,11 +1,11 @@
 ---
 slug: primeros-pasos-meshtastic
-title: Primeros pasos en el mundo Meshtastic
+title: Meshtastic, la tecnología open source para la comunicación a larga distancia (LoRa)
+sidebar_label: 'Primeros pasos en el mundo Meshtastic'
 authors: [MrNetsky, aguslasp, nicopace]
 tags: [dispositivos]
 ---
 
-# Meshtastic, la tecnología open source para la comunicación a larga distancia (LoRa)
 ![Logo Meshtastic](https://i0.wp.com/pileupdx.com/wp-content/uploads/2024/04/meshtastic-banner.jpg?resize=1024%2C200&ssl=1)
 ## Introducción
 
