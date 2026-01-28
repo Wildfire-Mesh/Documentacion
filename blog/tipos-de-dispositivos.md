@@ -1,7 +1,7 @@
 ---
 slug: tipos-de-dispositivos
 title: 'Más alla del tamaño: La guía definitiva para elegir un dispositivo basado en su función'
-sider_label: 'Tipos de dispositivos'
+sidebar_label: Tipos de dispositivos
 authors: 
   - key: MrNetsky
     title: Autor
