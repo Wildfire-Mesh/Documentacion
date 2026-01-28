@@ -2,7 +2,7 @@
 slug: encuentro-alpa-corral
 title: Encuentro en Alpa Corral - conectividad, territorio y brigadas de fuego
 authors: [nicopace, MrNetsky]
-tags: [hola]
+tags: [bitacora]
 ---
 
 # Encuentro en Alpa Corral: conectividad, territorio y brigadas de fuego
