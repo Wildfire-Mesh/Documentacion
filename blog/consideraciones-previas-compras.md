@@ -73,7 +73,7 @@ Una capacidad mayor de miliamperios-hora es mejor. Sin embargo, el rendimiento f
 
 No interesa en si el tamaño de la batería, sino que la misma pueda nos permita completar las tareas, sin la necesidad de depender de un powerbank para poder completarlas. 
 
-### Armazón
+### Carcasa
 
 Algunos de los aspectos que nos interesan son los siguientes: 
 
