@@ -197,7 +197,7 @@ El T-deck Plus es una unidad autónoma que solo ejecuta meshtastic. El Spec5 Spe
 
 Si los dispositivos portátiles son los comunicadores en primera línea, los nodos fijos son la infraestructura que da sentido a la red Meshtastic. Esta categoría incluye los nodos de alta potencia montados en estaciones de trabajo y los dispositivos para vehículos, cuya misión es garantizar la máxima cobertura y estabilidad a largo plazo.
 
-### Estaciones de trabajo
+### Nodos fijos
 
 Están diseñados para usar antenas externas de alta ganancia para maximizar el alcance y la recepción. Se montan típicamente en altura para obtener la mejor línea de visión.
 
@@ -219,7 +219,7 @@ Incluyen, en su mayoría, paneles solares y disponibilidad 24/7. Al estar conect
   <p>**WisMesh Repeater**</p>
 </div>
 
-### Para vehículos
+### Nodos vehiculares
 
 Es una forma dinámica y eficiente de mapear y extender el alcance de la red sobre grandes distancias, como una carretera. Viene dotado de un panel y una batería, además de la posibilidad de conectarlo directamente al vehículo para alimentación alternativa.
 
