@@ -1,19 +1,14 @@
-facebook:
-  label: Facebook
-  permalink: /facebook
-  description: Facebook tag description
+dispositivos:
+  label: "Hardware y clientes Meshtastic"
+  permalink: /dispositivos
+  description: "Experiencias y análisis técnico/operativo de los dispositivos que conforman el ecosistema Meshtastic."
 
-hello:
-  label: Hello
-  permalink: /hello
-  description: Hello tag description
+bitacora:
+  label: "Bitácora de campo"
+  permalink: /bitacora
+  description: "Relatos y datos obtenidos durante operativos y pruebas reales en el terreno."
 
-docusaurus:
-  label: Docusaurus
-  permalink: /docusaurus
-  description: Docusaurus tag description
-
-hola:
-  label: Hola
-  permalink: /hola
-  description: Hola tag description
+importacion:
+  label: "Importación de equipamiento"
+  permalink: /importacion
+  description: "Experiencias comprando hardware Meshtastic en el exterior (USA/China)."
