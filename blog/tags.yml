@@ -12,3 +12,13 @@ importacion:
   label: "Importación de equipamiento"
   permalink: /importacion
   description: "Experiencias comprando hardware Meshtastic en el exterior (USA/China)."
+
+meshcore:
+  label: "MeshCore"
+  permalink: /mesh-core
+  description: "Artículos técnicos sobre esta tecnología y su implementación."
+
+meshtastic:
+  label: "Meshtastic"
+  permalink: /meshtastic
+  description: "Guías, configuraciones y despliegue de nodos utilizando el protocolo Meshtastic para redes de radio de largo alcance."
