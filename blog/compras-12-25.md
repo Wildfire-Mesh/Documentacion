@@ -10,6 +10,7 @@ authors:
 tags: 
   - dispositivos
   - importacion
+  - Meshtastic
 ---
 
 En el camino hacia la implementación de redes de comunicación descentralizadas para combatientes del fuego, la teoría y la planificación deben dar paso a la acción concreta. Después de un riguroso análisis de las funciones y especificaciones técnicas ideales para nuestros nodos Meshtastic, llegó el momento decisivo: el proceso de adquisición. Esta etapa, aparentemente sencilla, se transformó en una verdadera aventura logística y económica.
