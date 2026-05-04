@@ -7,7 +7,10 @@ authors:
     title: Autor
   - key: nicopace
     title: Colaborador
-tags: [dispositivos]
+tags:
+  - dispositivos
+  - meshtastic
+  - meshcore
 ---
  
 Nuestra dependencia de las infraestructuras de comunicación centralizadas (desde las torres celulares hasta la fibra óptica) ha crecido exponencialmente. Esto ha traído una comodidad sin precedentes, pero también ha creado dependencias. Desastres naturales, fallos de infraestructura o la simple necesidad de operar en áreas remotas revelan que nuestra conectividad no es tan robusta como imaginamos. Esta fragilidad es la que afrontan los combatientes del fuego y nos ha impulsado en la búsqueda de una alternativa y así hemos arribado a la conectividad descentralizada.
