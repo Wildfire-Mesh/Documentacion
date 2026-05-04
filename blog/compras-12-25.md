@@ -87,4 +87,4 @@ Nuestra experiencia ha revelado varios puntos críticos para cualquier proyecto 
 
 4. <u>Tiempos reales de entrega:</u> La amplia dispersión en los tiempos de tránsito (desde envíos veloces de Amazon hasta las demoras en warehouses o la falta de fechas estimadas) subraya la necesidad de calendarios de implementación holgados y tolerantes al riesgo.
 
-En conclusión, es una aventura, la cual, aún no ha finalizado y nos estaremos viendo de nuevo en la segunda parte de esta experiencia, donde podrá ver los tiempos reales de entrega, los precios finales de c/u de los dispositivos y demás observaciones pertinentes. ¡Hasta luego!
+En conclusión, es una aventura la cual, aún no ha finalizado y nos estaremos viendo de nuevo en la [segunda parte](/blog/compras-12-25-p2.md) de esta experiencia, donde podrá ver los tiempos reales de entrega y demás observaciones pertinentes. ¡Hasta luego!

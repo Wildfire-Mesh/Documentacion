@@ -9,7 +9,9 @@ authors:
     title: Autor
   - key: aguslasp
     title: Colaborador
-tags: [dispositivos]
+tags:
+  - dispositivos
+  - meshtastic
 ---
 
 ![Logo Meshtastic](https://i0.wp.com/pileupdx.com/wp-content/uploads/2024/04/meshtastic-banner.jpg?resize=1024%2C200&ssl=1)
