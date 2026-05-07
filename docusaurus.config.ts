@@ -7,7 +7,7 @@ import type * as Preset from '@docusaurus/preset-classic';
 const config: Config = {
   title: 'Wildfire-Mesh',
   tagline: 'Todos conectados combatiendo el fuego',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/wfm_logo.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
   future: {
