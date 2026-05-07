@@ -76,8 +76,8 @@ const config: Config = {
     navbar: {
       title: 'Wildfire-Mesh',
       logo: {
-        alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        alt: 'Logo WildFire Mesh',
+        src: 'img/wfm_logo.svg',
       },
       items: [
         {
