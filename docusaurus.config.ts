@@ -72,7 +72,7 @@ const config: Config = {
 
   themeConfig: {
     // Replace with your project's social card
-    image: 'img/wfm_social_card.jpg',
+    image: 'img/wfm_social_card.png',
     navbar: {
       title: 'Wildfire-Mesh',
       logo: {
