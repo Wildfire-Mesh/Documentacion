@@ -18,7 +18,7 @@ import useBaseUrl from '@docusaurus/useBaseUrl';
 
 En el diseño de redes de comunicación para emergencias, la teoría y la práctica suelen chocar de frente cuando salimos al terreno. Sabemos que las señales de los dispositivos Meshtastic (tecnología LoRa) pueden viajar cientos de kilómetros si hay línea de vista directa. ¿Pero qué pasa cuando le sumamos la realidad de nuestro entorno?
 
-El viernes pasado, junto a Sofi y Caro de la brigada forestal La Chilca, salimos a responder esta pregunta en José de la Quintana (Departamento Santa María, Provincia de Córdoba, Argentina).
+Junto a Sofi y Caro de la brigada forestal [La Chilca](https://www.instagram.com/brigadalachilca/), salimos a responder esta pregunta en [José de la Quintana](https://maps.app.goo.gl/tkhwQghCG9jQNv5d6) (Departamento Santa María, Provincia de Córdoba, Argentina).
 
 El objetivo inicial era claro, determinar cuánto afecta la copa de los árboles a la señal de los dispositivos Meshtastic. Entender cómo los obstáculos regulares entorpecen la comunicación es vital para diseñar redes robustas. Además, veníamos de algunas pruebas de alcance fallidas y necesitábamos un escenario real para demostrar el verdadero potencial de esta tecnología.
 
@@ -67,7 +67,7 @@ El otro equipo (Pablo) inició un recorrido en moto llevando los nodos móviles 
 
 ## El misterio de los árboles y los resultados de cobertura
 
-El recorrido en moto implicó más de dos horas de tiempo neto de prueba, cubriendo un trayecto extenso: desde el tanque de agua, pasando por camino a boca del río, la cooperativa de agua y llegando hasta Los Molinos.
+El recorrido en moto implicó más de dos horas de tiempo neto de prueba, cubriendo un trayecto extenso que culminó en [Los Molinos](https://www.google.com/maps/place/Los+Molinos,+C%C3%B3rdoba/@-31.8550044,-64.3793484,17z/data=!4m10!1m2!2m1!1sLos+molinos!3m6!1s0x95d2aa4d413d375b:0x78606aab0556bdbd!8m2!3d-31.854921!4d-64.3789851!15sCgtMb3MgbW9saW5vc5IBCGxvY2FsaXR54AEA!16s%2Fg%2F120kn2sr?entry=ttu&g_ep=EgoyMDI2MDUxMC4wIKXMDSoASAFQAw%3D%3D).
 
 <div style={{ textAlign: 'center', marginBottom: '40px' }}>
   <img
@@ -95,7 +95,7 @@ Si bien la red demostró su potencial, el hardware nos dio varias lecciones impo
 
 - *Inestabilidad en el Nodo Solar (P1)*: El nodo debió ser reiniciado 3 o 4 veces a lo largo de toda la experiencia. No tenemos la certeza de si estos fallos se debieron a mantener un teléfono conectado por Bluetooth o a otra causa técnica. Lo que sí sabemos es que, en una experiencia anterior donde lo usamos puramente como repetidor (sin conexión Bluetooth), el P1 funcionó de manera impecable. Es un comportamiento que estamos investigando a fondo.
 - *El fracaso del T-Deck*: A los 500 metros de iniciado el recorrido, perdió la señal por completo y quedó "sordo". Debido a esto se decidió encender la función de Range Test y curiosamente los mensajes si llegaban con frecuencia al nodo fijo, pero el T-Deck sólo recibía mensajes si el Wio Tracker L1 actuaba como repetidor, a pesar de estar a la misma distancia del nodo principal. La conclusión es clara, **el T-Deck queda fuera de nuestras pruebas operativas por ahora.**
-- *Dudas sobre Seeed Studio*: Aunque el Wio Tracker L1 funcionó muy bien esta vez, los fallos recurrentes del P1 en esta prueba, sumados a cuelgues de otros L1 en el pasado, nos levantan una bandera roja sobre la confiabilidad. Por ello estamos investigando si es un problema de la marca o si es propio de los nodos cuyo procesador sea un nRF52.
+- *Dudas sobre Seeed Studio*: Aunque el Wio Tracker L1 funcionó muy bien esta vez, los fallos recurrentes del P1 en esta prueba, sumados a cuelgues de otros L1 en el pasado, nos llevan a prestar atención a su confiabilidad. Por ello estamos investigando si es un problema de la marca o si es propio de los nodos cuyo procesador sea un nRF52.
 
 ---
 
