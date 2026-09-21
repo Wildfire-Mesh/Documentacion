@@ -5,8 +5,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 // This runs in Node.js - Don't use client-side code here (browser APIs, JSX...)
 
 const config: Config = {
-  title: 'Wildfire-Mesh',
-  tagline: 'Todos conectados combatiendo el fuego',
+  title: 'ñandé',
+  tagline: 'Información que nos conecta',
   favicon: 'img/wfm_logo.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -92,9 +92,9 @@ const config: Config = {
     // Replace with your project's social card
     image: 'img/wfm_social_card.png',
     navbar: {
-      title: 'Wildfire-Mesh',
+      title: 'ñandé',
       logo: {
-        alt: 'Logo WildFire Mesh',
+        alt: 'Logo Ñandé',
         src: 'img/wfm_logo.svg',
       },
       items: [
