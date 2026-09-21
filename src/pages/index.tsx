@@ -13,7 +13,7 @@ function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
   const tagline = translate({
     id: 'homepage.tagline',
-    message: 'Todos conectados combatiendo el fuego',
+    message: 'El camino de regreso nos une',
   });
   const buttonLabel = translate({
     id: 'homepage.button',
